@@ -12,6 +12,7 @@ p:first-letter {
 
 h1 {
   text-align: center;
+  text-transform: uppercase;
 }
 
 h2,
@@ -37,4 +38,9 @@ h3 {
 
 a {
   color: red;
+}
+
+#bev {
+  border: white;
+  border
 }
