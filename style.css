@@ -4,6 +4,8 @@ body {
   margin: 0px;
   text-align: justify;
   background-image: url(big-graph.png);
+
+  
 }
 
 p:first-letter {
@@ -41,6 +43,10 @@ a {
 }
 
 #bev {
-  border: white;
-  border
+    border: white;
+  border: 400px;
+  border-style: solid;
+  border-color: #FF0000;
+  border-width: 1px;
+  float: right;
 }
