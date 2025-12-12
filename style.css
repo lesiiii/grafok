@@ -4,7 +4,7 @@ body {
   margin: 0px;
   text-align: justify;
   background-image: url(big-graph.png);
-
+  
   
 }
 
@@ -48,5 +48,8 @@ a {
   border-style: solid;
   border-color: #FF0000;
   border-width: 1px;
-  float: right  ;
+  float: right;
+  width: 710px;
+  margin-right: 10px;
+  text-align: center; 
 }
