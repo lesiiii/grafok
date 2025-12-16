@@ -52,4 +52,22 @@ a {
   width: 710px;
   margin-right: 10px;
   text-align: center; 
+
+}
+
+.n {
+  font-family: italic;
+}
+
+#k10 {
+  float: left;
+  padding-right: 30px;
+}
+
+li {
+  list-style: none;
+}
+
+#checkboxes {
+  align-items: center;
 }
